@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578336096 source:c:\users\bilal\documents\stoper l'arret\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
